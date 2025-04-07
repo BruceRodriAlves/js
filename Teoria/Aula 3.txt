@@ -1,0 +1,21 @@
+Aula 3
+Escopo Global
+
+Variável declarada fora de funções e blocos, podendo ser acessada de qualquer lugar
+
+Escopo de função
+
+Variável declarada em funções, aqui ela fica limitada.
+o var só fica acessível nessa função
+
+Escopo de bloco
+
+Função que só existe dentro de um bloco
+Só o let e const funciona aq
+Variáveis
+
+var: É uma variável que permite acessar ela mesmo ela estando dentro de uma bloco if por exemplo
+
+let: Ela não permite que seja acessada quando está dentro de um bloco
+
+const: tem a mesma função do let, a única diferença é que o valor dela não pode ser mudada ao decorrer do código

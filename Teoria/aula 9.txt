@@ -1,0 +1,24 @@
+aula 9
+
+Pré incremento e Pós incremento
+
+Pré incremento: Aqui ele faz o calculo normal
+EX:
+let n=10
+
+console.log(++n)
+
+Resultado:11
+
+Pós incremento: Ele soma primeiro e depois deixa o resultado
+
+Ex:
+
+let n=10
+
+console.log(n++)
+
+console.log(n)
+
+Resultado:10
+	  11

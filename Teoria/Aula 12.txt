@@ -1,0 +1,22 @@
+Aula 12
+
+Spread
+
+Quebra um Array
+Quebra um conjunto de elementos devolvendo elemento por elemento
+
+Para copiar uma variável dentro de outra usando Spread, eu vou usar: ...n1
+
+Outra função dele é meio que substituir os valores de uma variável
+
+EX:
+const soma=(v1,v2,v3)=>{
+    return v1+v2+v3
+
+}
+
+let valores=[1,5,4]
+console.log(soma(1,5,4))
+
+
+Aqui ele vai substituir os valores que está na variável soma pelos valores que está na variável valores

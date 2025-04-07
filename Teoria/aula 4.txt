@@ -1,0 +1,9 @@
+aula 4
+
+Operadores Matemáticos
+
+Operadores lógicos
+
+&& -> and e	precisa que as duas comparações sejam verdadeiro para que dê certo
+|| -> or ou	precisa que apenas uma comparação seja verdadeira para que dê certo
+! -> not não

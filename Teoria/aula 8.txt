@@ -1,0 +1,24 @@
+aula 8
+
+Operadores BitWise
+
+&: os dois números tem que ser igual, se não a operação vai dar 0
+
+1 & 1 = 1
+1 & 0 = 0
+0 & 1 = 0
+0 & 0 = 0
+
+|:
+1 | 1 = 1
+1 | 0 = 1
+0 | 1 = 1
+0 | 0 = 0
+
+^: Se tiver 1 presente, vai dar sempre 1
+1 ^ 0 = 1
+0 ^ 0 = 0
+
+<<: Desloca um bit para a esquerda	multiplica
+
+>>: Desloca um bit para a direita	divide

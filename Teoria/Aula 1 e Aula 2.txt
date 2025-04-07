@@ -1,0 +1,12 @@
+Aula 1 e Aula 2
+
+Introdução
+
+console.log: Imprime algo no console
+
+"use strict"
+
+Cria certas regras para o JavaScript
+Ajuda a evitar erros comuns
+EX:
+Não poder criar uma variável sem usar os componentes let, var e cost
